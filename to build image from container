@@ -1,0 +1,25 @@
+    1  docker search jenkins
+    2  docker images
+    3  docker ps-a
+    4  docker ps -a
+    5  docker ps
+    6  docker run jenkins
+    7  docker run -it ubuntu
+    8  docker ps -a
+    9  docker run -it --name
+   10  docker run -it --name satish ubantu
+   11  exit
+   12  docker run -it --name satish ubantu
+   13  docker run -it --name satish ubuntu
+   14  docker ps -a
+   15  docker run -it --name satish2 ubantu /bash
+   16  docker run -it --name satish2 ubuntu /bash
+   17  exit
+   18  docker ps -a
+   19  docker run -it --name satish3 ubuntu toucha1
+   20  exit
+   21  docker commit container2 ubuntu3
+   22  cd /tmp/
+   23  ll
+   24  docker images
+   25  docker run -it --name container4  ubuntu3
